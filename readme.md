@@ -118,7 +118,7 @@ You should use conditional rendering to show different components inside of the 
 
 ## Organizing your fetch calls
 
-- [ ] You should have a file called `api.ts` with a request object that contains all of your fetching functions
+- [x] You should have a file called `api.ts` with a request object that contains all of your fetching functions
   - You can completely rip this file from your previous submission if you would like
 
 ## Interacting With Fetch Calls

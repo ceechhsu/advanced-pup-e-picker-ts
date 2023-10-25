@@ -1,4 +1,6 @@
 import { ReactNode } from "react";
+import { useDogs } from "../providers/DogsProvider";
+import { ActiveTab } from "../types";
 
 export const Section = ({
   label,
@@ -8,6 +10,14 @@ export const Section = ({
   label: string;
   children: ReactNode;
 }) => {
+  const { dogs, activeTab, setActiveTab } = useDogs();
+  const favoriteDogCount = dogs.filter((dog) => dog.isFavorite).length;
+  const unfavoriteDogCount = dogs.filter((dog) => !dog.isFavorite).length;
+
+  const handleActiveTab = (value: ActiveTab) => {
+    value === activeTab ? setActiveTab("all-dogs") : setActiveTab(value);
+  };
+
   return (
     <section id="main-section">
       <div className="container-header">
@@ -15,27 +25,29 @@ export const Section = ({
         <div className="selectors">
           {/* This should display the favorited count */}
           <div
-            className={`selector ${"active"}`}
+            className={`selector ${activeTab === "favorite" ? "active" : ""}`}
             onClick={() => {
-              alert("click favorited");
+              handleActiveTab("favorite");
             }}
           >
-            favorited ( {0} )
+            favorited ( {favoriteDogCount} )
           </div>
 
           {/* This should display the unfavorited count */}
           <div
-            className={`selector ${""}`}
+            className={`selector ${activeTab === "unfavorite" ? "active" : ""}`}
             onClick={() => {
-              alert("click unfavorited");
+              handleActiveTab("unfavorite");
             }}
           >
-            unfavorited ( {10} )
+            unfavorited ( {unfavoriteDogCount} )
           </div>
           <div
-            className={`selector ${""}`}
+            className={`selector ${
+              activeTab === "create-dog-form" ? "active" : ""
+            }`}
             onClick={() => {
-              alert("clicked create dog");
+              handleActiveTab("create-dog-form");
             }}
           >
             create dog

@@ -1,130 +1,214 @@
 {
   "dogs": [
     {
-      "name": "Jonatan",
-      "image": "/src/assets/boxer.png",
-      "description": "Shoes after Dollar Marketing female generating Diesel",
-      "isFavorite": true,
+      "name": "Leopoldo",
+      "image": "/assets/cowardly.png",
+      "description": "B2B Bugatti SMS Electric Nauru Gloves Money Transexual",
+      "isFavorite": false,
       "id": 0
     },
     {
-      "name": "Anthony",
-      "image": "/src/assets/cowardly.png",
-      "description": "plum Savings female Ghana programming solutions miniaturise",
-      "isFavorite": true,
+      "name": "Dandre",
+      "image": "/assets/chihuahua.avif",
+      "description": "Cordoba Optimization mumbling Enhanced radian Northwest orange",
+      "isFavorite": false,
       "id": 1
     },
     {
-      "name": "Ana",
-      "image": "/src/assets/boxer.png",
-      "description": "Analyst function withdrawal United while",
+      "name": "Edgar",
+      "image": "/assets/corgi.png",
+      "description": "quantifying mould neural Loan Multigender",
+      "isFavorite": true,
+      "id": 2
+    },
+    {
+      "name": "Morgan",
+      "image": "/assets/blue-heeler.png",
+      "description": "deposit carbohydrate Dong stud Favian while Quality",
+      "isFavorite": true,
+      "id": 3
+    },
+    {
+      "name": "Dejuan",
+      "image": "/assets/chihuahua.avif",
+      "description": "Cruiser Rap aw Account Buckinghamshire microchip age concerning",
       "isFavorite": false,
       "id": 4
     },
     {
-      "name": "Alfred",
-      "image": "/src/assets/cowardly.png",
-      "description": "Northwest DRAM henry applications South",
+      "name": "Rafaela",
+      "image": "/assets/chihuahua.avif",
+      "description": "Lead Markets radian Kentucky Consultant argue Clothing",
       "isFavorite": false,
-      "id": 5
-    },
-    {
-      "name": "Violette",
-      "image": "/src/assets/boxer.png",
-      "description": "embrace Web Southwest perspiciatis though",
-      "isFavorite": true,
       "id": 6
     },
     {
-      "name": "Kenton",
-      "image": "/src/assets/cowardly.png",
-      "description": "Bedfordshire Human tempora Managed Electronic Directives Nissan expedite",
-      "isFavorite": true,
+      "name": "Lera",
+      "image": "/assets/chihuahua.avif",
+      "description": "Soap yippee Investor Administrator Tugrik directional Keyboard Van",
+      "isFavorite": false,
       "id": 7
     },
     {
-      "name": "Asa",
-      "image": "/src/assets/dalmation.png",
-      "description": "Minivan Neither Road Movies radian",
+      "name": "Daphney",
+      "image": "/assets/cowardly.png",
+      "description": "so Electronics blond Rustic Dodge systems Diesel",
       "isFavorite": false,
       "id": 8
     },
     {
-      "name": "Nicolas",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "an Savings brink transmit card",
-      "isFavorite": false,
-      "id": 9
-    },
-    {
-      "name": "Elton",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Nihonium Electronic Nissan Metal because Computer white",
-      "isFavorite": false,
-      "id": 10
-    },
-    {
-      "name": "Dewayne",
-      "image": "/src/assets/dalmation.png",
-      "description": "Security override firewall Southeast apropos Usability orchid barrel",
-      "isFavorite": false,
+      "name": "Laney",
+      "image": "/assets/dalmation.png",
+      "description": "driver invoice Samarium copying Credit deliverables overriding Officer",
+      "isFavorite": true,
       "id": 11
     },
     {
-      "name": "Art",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Global ha Genderflux payment Metal pixel Money",
-      "isFavorite": true,
-      "id": 12
-    },
-    {
-      "name": "Sebastian",
-      "image": "/src/assets/boxer.png",
-      "description": "Associate Gasoline Savings Hybrid Developer",
+      "name": "Ramiro",
+      "image": "/assets/blue-heeler.png",
+      "description": "World fatigues female technologies Baht Savings Practical male",
       "isFavorite": true,
       "id": 13
     },
     {
-      "name": "Lambert",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "drive reek Marvin compress executive Coordinator Track bluetooth",
-      "isFavorite": false,
+      "name": "Imani",
+      "image": "/assets/cowardly.png",
+      "description": "progress Xenogender sticky withdrawal Supervisor",
+      "isFavorite": true,
       "id": 14
     },
     {
-      "name": "Kris",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Beryllium Chevrolet partnerships focus Southeast Poland salmon",
+      "name": "Josiane",
+      "image": "/assets/cowardly.png",
+      "description": "violet Market local hacking gray",
       "isFavorite": true,
-      "id": 15
-    },
-    {
-      "name": "Trudie",
-      "image": "/src/assets/boxer.png",
-      "description": "connecting blue National Movies Interactions ack Tandem Shirt",
-      "isFavorite": false,
-      "id": 16
-    },
-    {
-      "name": "Meaghan",
-      "image": "/src/assets/dalmation.png",
-      "description": "lux Manager North applications Rufiyaa",
-      "isFavorite": false,
       "id": 17
     },
     {
-      "name": "Vallie",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "Lead synergistic noisy operating Passenger female Salad Rubber",
+      "name": "adsf",
+      "image": "/assets/boxer.jpeg",
+      "description": "",
       "isFavorite": true,
-      "id": 18
+      "id": 23
     },
     {
-      "name": "Newton",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Planner maxime invoice ROI granular ouch Franc",
-      "isFavorite": true,
-      "id": 19
+      "name": "123",
+      "image": "/assets/blue-heeler.png",
+      "description": "123",
+      "isFavorite": false,
+      "id": 38
+    },
+    {
+      "name": "123",
+      "image": "/assets/blue-heeler.png",
+      "description": "123",
+      "isFavorite": false,
+      "id": 39
+    },
+    {
+      "name": "123",
+      "image": "/assets/blue-heeler.png",
+      "description": "123",
+      "isFavorite": false,
+      "id": 40
+    },
+    {
+      "name": "123",
+      "image": "/assets/blue-heeler.png",
+      "description": "123",
+      "isFavorite": false,
+      "id": 41
+    },
+    {
+      "name": "432",
+      "image": "/assets/boxer.jpeg",
+      "description": "432",
+      "isFavorite": false,
+      "id": 42
+    },
+    {
+      "name": "432",
+      "image": "/assets/boxer.jpeg",
+      "description": "432",
+      "isFavorite": false,
+      "id": 43
+    },
+    {
+      "name": "432",
+      "image": "/assets/boxer.jpeg",
+      "description": "432",
+      "isFavorite": false,
+      "id": 44
+    },
+    {
+      "name": "432",
+      "image": "/assets/boxer.jpeg",
+      "description": "432",
+      "isFavorite": false,
+      "id": 45
+    },
+    {
+      "name": "432",
+      "image": "/assets/boxer.jpeg",
+      "description": "432",
+      "isFavorite": false,
+      "id": 46
+    },
+    {
+      "name": "asd",
+      "image": "/assets/chihuahua.avif",
+      "description": "asd",
+      "isFavorite": false,
+      "id": 47
+    },
+    {
+      "name": "asd",
+      "image": "/assets/chihuahua.avif",
+      "description": "asd",
+      "isFavorite": false,
+      "id": 48
+    },
+    {
+      "name": "asd",
+      "image": "/assets/chihuahua.avif",
+      "description": "asd",
+      "isFavorite": false,
+      "id": 49
+    },
+    {
+      "name": "asd",
+      "image": "/assets/chihuahua.avif",
+      "description": "asd",
+      "isFavorite": false,
+      "id": 50
+    },
+    {
+      "name": "asd",
+      "image": "/assets/chihuahua.avif",
+      "description": "asd",
+      "isFavorite": false,
+      "id": 51
+    },
+    {
+      "name": "",
+      "image": "/assets/blue-heeler.png",
+      "description": "",
+      "isFavorite": false,
+      "id": 52
+    },
+    {
+      "name": "",
+      "image": "/assets/blue-heeler.png",
+      "description": "",
+      "isFavorite": false,
+      "id": 53
+    },
+    {
+      "name": "",
+      "image": "/assets/blue-heeler.png",
+      "description": "",
+      "isFavorite": false,
+      "id": 54
     }
   ]
 }

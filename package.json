@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "serve": "json-server --watch db.json",
+    "serve:slow": "json-server --watch db.json --delay 1000",
     "seed": "node reseed-db.js",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
